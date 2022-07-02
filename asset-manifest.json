@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ccaead39.js",
-    "static/js/787.137dd8f1.chunk.js": "/static/js/787.137dd8f1.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ccaead39.js.map": "/static/js/main.ccaead39.js.map",
-    "787.137dd8f1.chunk.js.map": "/static/js/787.137dd8f1.chunk.js.map"
+    "main.css": "/React-Fake-Roulette/static/css/main.073c9b0a.css",
+    "main.js": "/React-Fake-Roulette/static/js/main.722c3244.js",
+    "static/js/787.137dd8f1.chunk.js": "/React-Fake-Roulette/static/js/787.137dd8f1.chunk.js",
+    "index.html": "/React-Fake-Roulette/index.html",
+    "main.073c9b0a.css.map": "/React-Fake-Roulette/static/css/main.073c9b0a.css.map",
+    "main.722c3244.js.map": "/React-Fake-Roulette/static/js/main.722c3244.js.map",
+    "787.137dd8f1.chunk.js.map": "/React-Fake-Roulette/static/js/787.137dd8f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ccaead39.js"
+    "static/js/main.722c3244.js"
   ]
 }
