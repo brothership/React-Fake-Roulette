@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Fake-Roulette/static/css/main.073c9b0a.css",
-    "main.js": "/React-Fake-Roulette/static/js/main.dd18ba3b.js",
-    "static/js/787.137dd8f1.chunk.js": "/React-Fake-Roulette/static/js/787.137dd8f1.chunk.js",
-    "index.html": "/React-Fake-Roulette/index.html",
-    "main.073c9b0a.css.map": "/React-Fake-Roulette/static/css/main.073c9b0a.css.map",
-    "main.dd18ba3b.js.map": "/React-Fake-Roulette/static/js/main.dd18ba3b.js.map",
-    "787.137dd8f1.chunk.js.map": "/React-Fake-Roulette/static/js/787.137dd8f1.chunk.js.map"
+    "main.css": "/React-Roulette/static/css/main.073c9b0a.css",
+    "main.js": "/React-Roulette/static/js/main.81d5be4a.js",
+    "static/js/787.137dd8f1.chunk.js": "/React-Roulette/static/js/787.137dd8f1.chunk.js",
+    "index.html": "/React-Roulette/index.html",
+    "main.073c9b0a.css.map": "/React-Roulette/static/css/main.073c9b0a.css.map",
+    "main.81d5be4a.js.map": "/React-Roulette/static/js/main.81d5be4a.js.map",
+    "787.137dd8f1.chunk.js.map": "/React-Roulette/static/js/787.137dd8f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dd18ba3b.js"
+    "static/js/main.81d5be4a.js"
   ]
 }
